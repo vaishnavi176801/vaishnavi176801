@@ -1,0 +1,127 @@
+<svg width="400" height="400" viewBox="0 0 400 400" xmlns="http://www.w3.org/2000/svg">
+
+<!-- Night sky -->
+<rect width="400" height="400" fill="#050816"/>
+
+
+<!-- Stars -->
+<g fill="#ffffff">
+
+<circle cx="60" cy="80" r="3">
+<animate attributeName="opacity"
+values="1;0.2;1"
+dur="2s"
+repeatCount="indefinite"/>
+</circle>
+
+<circle cx="320" cy="100" r="4">
+<animate attributeName="opacity"
+values="0.3;1;0.3"
+dur="3s"
+repeatCount="indefinite"/>
+</circle>
+
+<circle cx="200" cy="50" r="2">
+<animate attributeName="opacity"
+values="1;0.4;1"
+dur="1.5s"
+repeatCount="indefinite"/>
+</circle>
+
+</g>
+
+
+<!-- Moon glow -->
+<circle cx="300" cy="80" r="35" fill="#fff4c2" opacity="0.9"/>
+
+<circle cx="300" cy="80" r="55" fill="#fff4c2" opacity="0.08"/>
+
+
+<!-- CAT COMING UP -->
+
+<g>
+
+<!-- fluffy head -->
+<ellipse cx="200" cy="340" rx="95" ry="90" fill="#fffaf5"/>
+
+
+<!-- ears -->
+<path d="M125 285 L120 200 L175 260Z" fill="#fffaf5"/>
+<path d="M275 285 L280 200 L225 260Z" fill="#fffaf5"/>
+
+
+<!-- inner ears -->
+<path d="M135 250 L130 220 L160 255Z" fill="#ffc6d9"/>
+<path d="M265 250 L270 220 L240 255Z" fill="#ffc6d9"/>
+
+
+<!-- anime eyes -->
+<ellipse cx="160" cy="330" rx="18" ry="25" fill="#1c2438"/>
+<ellipse cx="240" cy="330" rx="18" ry="25" fill="#1c2438"/>
+
+
+<!-- eye shine -->
+<circle cx="154" cy="322" r="6" fill="white"/>
+<circle cx="234" cy="322" r="6" fill="white"/>
+
+
+<!-- cute nose -->
+<path d="M200 355 L190 365 L210 365Z" fill="#ff9fb8"/>
+
+
+<!-- smile -->
+<path d="M200 365 Q180 390 160 370"
+stroke="#333"
+stroke-width="3"
+fill="none"/>
+
+<path d="M200 365 Q220 390 240 370"
+stroke="#333"
+stroke-width="3"
+fill="none"/>
+
+
+<!-- whiskers -->
+
+<line x1="120" y1="360" x2="50" y2="340"
+stroke="white"
+stroke-width="2"/>
+
+<line x1="120" y1="370" x2="50" y2="390"
+stroke="white"
+stroke-width="2"/>
+
+
+<line x1="280" y1="360" x2="350" y2="340"
+stroke="white"
+stroke-width="2"/>
+
+<line x1="280" y1="370" x2="350" y2="390"
+stroke="white"
+stroke-width="2"/>
+
+
+<!-- floating animation -->
+
+<animateTransform
+attributeName="transform"
+type="translate"
+values="0 120;0 0;0 120"
+dur="5s"
+repeatCount="indefinite"/>
+
+</g>
+
+
+<!-- sparkles around cat -->
+
+<text x="80" y="280" fill="#ffd6ff" font-size="25">
+✦
+</text>
+
+<text x="320" y="300" fill="#ffd6ff" font-size="25">
+✧
+</text>
+
+
+</svg>
