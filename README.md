@@ -1,14 +1,10 @@
 <div align="center">
 
-<img src="YOUR_SPACE_ANIMATION.gif" width="100%" />
-
-<br><br>
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=700&size=45&duration=2500&pause=1000&color=FFFFFF&background=00000&center=true&vCenter=true&width=800&lines=Vaishnavi+Bharti;Software+Developer;Building+Future+Technology"/>
+<img src="./assests/sky.gif" width="100%" height="250px"/>
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=vaishnavi176801&style=for-the-badge&color=000000" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=700&size=45&duration=2500&pause=1000&color=FFFFFF&background=FFFFFFF&center=true&vCenter=true&width=800&lines=Vaishnavi+Bharti;Software+Developer;AI+%26+UX+Explorer;Building+Future+Technology"/>
 
 </div>
 
