@@ -2,13 +2,13 @@
 
 ## About Me
 
-🎓 Third-year Computer Science student
+🎓 Third-year Computer Science student at Dalhousie university
 
 💻 Interested in Software Development, AI, and UX Design
 
-🌱 Currently learning React, Next.js, and Machine Learning
+🌱 Currently learning AWS and Machine Learning
 
-📍 Canada
+📍 Halifax, Canada
 
 ---
 
@@ -22,6 +22,7 @@
 - Firebase
 - MySQL
 - Git
+- REST API
 - Figma
 
 ---
@@ -31,7 +32,7 @@
 ### QuickCash
 Android app for finding and posting micro jobs using Firebase Authentication and PayPal.
 
-### Lumra
+### Lumora
 Educational platform built with React, Next.js, and MySQL for a client.
 
 ### BrewBuzz
