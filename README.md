@@ -1,17 +1,18 @@
-<!-- 🌸 HEADER ANIMATION -->
-
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&size=35&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=700&lines=Hi+there,+I'm+Vaishnavi+%F0%9F%91%8B;Computer+Science+Student+%F0%9F%92%BB;Software+Developer+%26+UX+Designer+%F0%9F%8E%A8;Building+Creative+Tech+Solutions+%E2%9C%A8" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&size=35&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=750&lines=Hi+there,+I'm+Vaishnavi+Bharti+%F0%9F%8C%B8;Computer+Science+Student+%F0%9F%92%BB;Software+Developer+%26+UX+Designer+%F0%9F%8E%A8;Marketing+Lead+%7C+Tech+Community+Builder+%E2%9C%A8" />
 </p>
 
 <p align="center">
 <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="180"/>
 </p>
 
+<h2 align="center">
+🌸 Welcome to Vaishnavi Bharti's Creative Tech Space 🌸
+</h2>
 
-<h2 align="center">🌸 Welcome to my little corner of GitHub 🌸</h2>
-
-
+<p align="center">
+💗 Coding • Designing • Building Communities • Creating Impact 💗
+</p>
 ---
 
 ## 🌷 About Me
@@ -49,7 +50,7 @@
 ## 🚀 Featured Projects
 
 
-### 🌸 Lemora — Education Platform
+### 🌸 Lumora — Education Platform
 💻 Full-stack educational platform designed with a focus on usability and clean UI.
 
 ✨ Technologies:
@@ -119,30 +120,6 @@ Technologies:
 🌸 Machine Learning  
 🌸 AWS Cloud Technologies  
 🌸 Advanced UX Design  
-
-
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=vaishnavi176801&show_icons=true&theme=rose_pine&hide_border=true"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaishnavi176801&layout=compact&theme=rose_pine&hide_border=true"/>
-
-</p>
-
-
----
-
-# 🐍 My Contributions
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/vaishnavi176801/vaishnavi176801/output/github-contribution-grid-snake.svg"/>
-
-</p>
 
 
 ---
