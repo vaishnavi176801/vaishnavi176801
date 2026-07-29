@@ -134,6 +134,6 @@ Exploring innovation, collaboration, and technology-driven projects.
 
 <div align="center">
 
-<img src="./assests/cat.svg" width="100%" height="250px"/>
+<img src="./assests/girl.svg" width="100%" height="250px"/>
 
 </div>
