@@ -41,5 +41,5 @@ Cafe discovery app using OpenStreetMap and Unsplash APIs.
 
 ## 📫 Connect with Me
 
-- LinkedIn: https://linkedin.com/in/your-link
-- Email: your@email.com
+- LinkedIn: https://www.linkedin.com/in/vaishnavi-bharti/
+- Email: vaish.navi12376@gmail.com
