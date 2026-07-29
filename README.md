@@ -1,139 +1,195 @@
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&size=35&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=750&lines=Hi+there,+I'm+Vaishnavi+Bharti+%F0%9F%8C%B8;Computer+Science+Student+%F0%9F%92%BB;Software+Developer+%26+UX+Designer+%F0%9F%8E%A8;Marketing+Lead+%7C+Tech+Community+Builder+%E2%9C%A8" />
-</p>
+<div align="center">
 
-<p align="center">
-<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="180"/>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:4B0082&height=220&section=header&text=VAISHNAVI%20BHARTI&fontSize=55&fontColor=ffffff&animation=fadeIn"/>
 
-<h2 align="center">
-🌸 Welcome to Vaishnavi Bharti's Creative Tech Space 🌸
-</h2>
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=2500&pause=800&color=8A2BE2&center=true&vCenter=true&width=700&lines=SYSTEM+ONLINE+%F0%9F%9F%A2;Hi%2C+I'm+Vaishnavi+%F0%9F%91%8B;Computer+Science+Explorer;Software+Developer;AI+%26+UX+Enthusiast;Building+Future+Technology"/>
 
-<p align="center">
-💗 Coding • Designing • Building Communities • Creating Impact 💗
-</p>
----
+<br>
 
-## 🌷 About Me
+<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="250"/>
 
-<img align="right" width="220" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjEx/cute-cat.gif">
-
-🎓 Third-year Computer Science student  
-
-💻 Passionate about Software Development, AI, and UX Design  
-
-🎨 I enjoy turning ideas into beautiful and functional digital experiences  
-
-🌱 Currently exploring:
-- Artificial Intelligence
-- Machine Learning
-- Cloud Technologies
-- Full-stack Development
-
-🐱 Cat lover who enjoys creating technology with creativity and purpose ✨
-
+</div>
 
 ---
 
-## 💗 My Tech Stack
+# 🪐 ABOUT_ME.exe
 
-<p align="center">
+```yaml
+name: Vaishnavi Bharti
+role: Computer Science Student
+location: Halifax, Canada 🇨🇦
 
-<img src="https://skillicons.dev/icons?i=java,python,c,js,react,nextjs,firebase,mysql,git,github,figma,aws&theme=light"/>
+interests:
+  - Software Development
+  - Artificial Intelligence
+  - UX Design
+  - Machine Learning
 
-</p>
+current_learning:
+  - AWS
+  - Machine Learning
+  - Advanced Web Technologies
 
+mission:
+  - Build intelligent applications
+  - Create meaningful user experiences
+  - Explore future technologies
+```
 
 ---
 
-## 🚀 Featured Projects
+# ⚡ TECH_STACK
 
+<div align="center">
 
-### 🌸 Lumora — Education Platform
-💻 Full-stack educational platform designed with a focus on usability and clean UI.
+<img src="https://skillicons.dev/icons?i=java,python,javascript,react,nextjs,nodejs,firebase,mysql,git,github,figma,aws&theme=dark"/>
 
-✨ Technologies:
-- React
-- Next.js
-- MySQL
-- REST APIs
-- Figma
-
+</div>
 
 ---
 
-### 💗 QuickCash — Android Application
+# 🚀 PROJECT_DATABASE
 
-📱 Mobile application connecting users with micro-job opportunities.
+## 💸 QuickCash // MOBILE_SYSTEM
 
-✨ Features:
-- Firebase Authentication
-- Firebase Realtime Database
-- Role-based user systems
-- PayPal Sandbox Integration
+```
+STATUS: COMPLETED ✅
 
-Technologies:
-- Java
-- Android Studio
-- Firebase
+> Android application for micro-job opportunities
+> Users can post and discover jobs
+> Implemented authentication and database management
+> Integrated payment functionality
+```
+
+**Technology:**
+
+`Java` `Android Studio` `Firebase` `PayPal API`
 
 
 ---
 
-### ☕ BrewBuzz — Cafe Discovery Platform
+## 📚 Lumora // EDUCATION_PLATFORM
 
-🌎 A cafe discovery application built for exploring local cafes.
+```
+STATUS: DEPLOYED 🚀
 
-✨ Features:
-- Location-based search
-- OpenStreetMap API
-- Unsplash API integration
-- Interactive user experience
+> Full-stack educational platform
+> Designed client-focused solutions
+> Created responsive user interfaces
+> Built REST-based functionality
+```
 
+**Technology:**
 
----
-
-# 💼 Experience & Community
-
-## 🌸 Tech Talk Atlantic
-
-✨ Community Outreach Coordinator
-
-- Helped promote technology education and community engagement
-- Supported initiatives connecting students with technology opportunities
-
-
-## ⚡ Watt Wire
-
-✨ Technology Contributor
-
-- Collaborated on technology-focused projects
-- Helped create digital solutions and improve user experiences
+`React` `Next.js` `MySQL` `REST API` `Figma`
 
 
 ---
 
-# 🌱 Currently Learning
+## ☕ BrewBuzz // LOCATION_ENGINE
 
-🌸 Artificial Intelligence  
-🌸 Machine Learning  
-🌸 AWS Cloud Technologies  
-🌸 Advanced UX Design  
+```
+STATUS: ACTIVE 🌎
+
+> Cafe discovery application
+> Location-based recommendations
+> API-powered cafe information system
+```
+
+**Technology:**
+
+`React` `Firebase` `OpenStreetMap API` `Unsplash API`
 
 
 ---
 
-# 🌸 Let's Connect!
+# 🛰️ EXPERIENCE_LOG
 
-<p align="center">
+```
+[ EXPERIENCE DATABASE ]
 
-💌 Open to collaborating on interesting software, AI, and UX projects!
+Community:
+→ Tech Talk Atlantic
+→ Watt Wire
 
-</p>
+Role:
+→ Collaborating on technology initiatives
+→ Supporting innovation and community growth
+→ Exploring real-world applications of software
+```
 
+---
 
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=ffb6c1&height=120&section=footer"/>
-</p>
+# 🧠 CURRENT_TRANSMISSION
 
+```
+SYSTEM STATUS: LEARNING...
+
+██████████████████ 100%
+
+Currently exploring:
+
+→ Artificial Intelligence
+→ Machine Learning
+→ Cloud Computing
+→ User-Centered Design
+
+Building:
+
+→ Scalable software
+→ Intelligent systems
+→ Better digital experiences
+```
+
+---
+
+# 📡 GITHUB_METRICS
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=vaishnavi176801&show_icons=true&theme=midnight-purple&hide_border=true"/>
+
+<br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=vaishnavi176801&theme=midnight-purple&hide_border=true"/>
+
+</div>
+
+---
+
+# 🐍 CONTRIBUTION_SYSTEM
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/vaishnavi176801/vaishnavi176801/output/github-contribution-grid-snake.svg"/>
+
+</div>
+
+---
+
+# 🌌 CONNECT_TO_ME
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/vaishnavi-bharti/">
+<img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=8A2BE2"/>
+</a>
+
+<a href="mailto:vaish.navi12376@gmail.com">
+<img src="https://img.shields.io/badge/EMAIL-000000?style=for-the-badge&logo=gmail&logoColor=8A2BE2"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+```
+╔══════════════════════════════╗
+       END OF TRANSMISSION
+          🚀 🚀 🚀
+╚══════════════════════════════╝
+```
+
+</div>
