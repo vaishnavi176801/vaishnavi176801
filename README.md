@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/sky.gif" width="100%" height="250px"/>
+<img src="./assests/sky.gif" width="100%" height="250px"/>
 
 <br>
 
