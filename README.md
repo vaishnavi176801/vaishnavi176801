@@ -134,6 +134,6 @@ Exploring innovation, collaboration, and technology-driven projects.
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=footer"/>
+<img src="./assests/cat.svg" width="100%" height="250px"/>
 
 </div>
