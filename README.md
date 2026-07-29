@@ -1,22 +1,45 @@
-# Hi there, I'm Vaishnavi Bharti!
+# Hi there, I'm Vaishnavi 👋
 
-About Me
+## About Me
 
-🎓Computer Science Student at Dalhousie University
+🎓 Third-year Computer Science student
 
-💻 Passionate about Web and Software Development
+💻 Interested in Software Development, AI, and UX Design
 
-🚀 Looking for Fall 2025 Internship/Co-Op
+🌱 Currently learning React, Next.js, and Machine Learning
 
+📍 Canada
 
-## Languages
+---
 
-1. C++
-2. SQL
-3. JAVA
-4. PYTHON
-5. HTML
-6. CSS
-7. JavaScript
+## 🛠️ Technologies
 
-## Connect with Me
+- Java
+- Python
+- JavaScript
+- React
+- Next.js
+- Firebase
+- MySQL
+- Git
+- Figma
+
+---
+
+## 🚀 Featured Projects
+
+### QuickCash
+Android app for finding and posting micro jobs using Firebase Authentication and PayPal.
+
+### Lumra
+Educational platform built with React, Next.js, and MySQL for a client.
+
+### BrewBuzz
+Cafe discovery app using OpenStreetMap and Unsplash APIs.
+
+---
+
+## 📫 Connect with Me
+
+- LinkedIn: https://linkedin.com/in/your-link
+- Email: your@email.com
