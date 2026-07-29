@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assests/sky/sky.svg" width="100%" height="250px"/>
+<img src="./assests/sky.svg" width="100%" height="250px"/>
 
 <br>
 
