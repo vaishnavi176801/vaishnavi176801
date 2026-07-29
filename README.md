@@ -1,15 +1,16 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=250&section=header&text=Vaishnavi%20Bharti&fontSize=65&fontColor=ffffff&animation=fadeIn"/>
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&size=28&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Vaishnavi+Bharti+%F0%9F%91%8B;Computer+Science+Student;Software+Developer;AI+%26+UX+Enthusiast;Building+Technology+for+the+Future"/>
+<img src="YOUR_SPACE_ANIMATION.gif" width="100%" />
 
 <br><br>
 
-<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3Z6M3F6a2V5c3Z6dW5tY3Q2c2Z6a3V4cWJ3aWJ3Z3Y2a2J5dWZ6aSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3o7aD4Z2x9v6pZ8JpC/giphy.gif" width="350">
+<img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=700&size=45&duration=2500&pause=1000&color=FFFFFF&background=000000&center=true&vCenter=true&width=800&lines=Vaishnavi+Bharti;Software+Developer;AI+%26+UX+Explorer;Building+Future+Technology"/>
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=vaishnavi176801&style=for-the-badge&color=000000" />
 
 </div>
-
 
 # 🌙 About Me
 
