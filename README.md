@@ -8,7 +8,10 @@
 
 </div>
 
-# 🌙 About Me
+<h1>
+<img src="./assests/cat.svg" width="50px"/>
+ About Me
+</h1>
 
 Hi! I'm **Vaishnavi Bharti**, a third-year Computer Science student passionate about creating meaningful technology through software development, artificial intelligence, and user-centered design.
 
