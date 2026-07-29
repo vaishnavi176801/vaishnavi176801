@@ -8,7 +8,10 @@
 
 </div>
 
-# 🌙 About Me
+<h1>
+<img src="./assests/cat.svg" width="50px"/>
+ About Me
+</h1>
 
 Hi! I'm **Vaishnavi Bharti**, a third-year Computer Science student passionate about creating meaningful technology through software development, artificial intelligence, and user-centered design.
 
@@ -131,6 +134,6 @@ Exploring innovation, collaboration, and technology-driven projects.
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=footer"/>
+<img src="./assests/cat.svg" width="100%" height="250px"/>
 
 </div>
